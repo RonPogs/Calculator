@@ -3,7 +3,7 @@ def add(a, b):
     pass
 
 def subtract(a, b):
-    #TODO
+    return a - b
     pass
 
 def main():
